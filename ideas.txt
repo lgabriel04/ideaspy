@@ -1,0 +1,1 @@
+1. A software that allows the user to control all the sotware installed on their desktop in one terminal. It can also be used to control their social media accounts by adding significant information for the system to access their social media accounts.

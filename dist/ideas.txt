@@ -1,0 +1,1 @@
+1. A software that allows the user to make a website or something in a simple python terminal.
